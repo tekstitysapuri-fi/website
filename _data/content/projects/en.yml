@@ -1,0 +1,27 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "Projects"
+    info: "Your Project page description."
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":projects-heading.jpg"
+    back_color: "lightblue"
+
+  category:
+    - title: "Quote"
+      type: id_quote
+      color: "#2FD0ED"
+
+  list:
+    - type: id_quote
+      project_name: "Step 1"
+      project_excerpt: ""
+      img: ":project2_thumb.jpg"
+      img_title: "img title6"
+      date: "2023-07-01"
+      post: |
+        In the first step, we open the automatic subtitling service for test use.

@@ -1,0 +1,33 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "Projektit"
+    info: "Your Project page description."
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":projects-heading.jpg"
+    back_color: "lightblue"
+
+  category:
+    - title: "Example"
+      type: id_example
+      color: "gray"
+    - title: "Picture"
+      type: id_picture
+      color: "#62b462"
+    - title: "Quote"
+      type: id_quote
+      color: "#2FD0ED"
+
+  list:
+    - type: id_quote
+      project_name: "Vaihe 1"
+      project_excerpt: ""
+      img: ":project2_thumb.jpg"
+      img_title: "img title6"
+      date: "2023-07-01"
+      post: |
+        Ykkösvaiheessa avaamme automaattisen tekstityspalvelun testikäyttöön.
