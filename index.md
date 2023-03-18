@@ -39,7 +39,7 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
-
+Hello
 {{ website_info_text_second }}
+Our goal is for everyone to be able to subtitle videos quickly.
