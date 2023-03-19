@@ -2,10 +2,10 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Automaattiset tekstitykset kaikille"
+brand: "Tekstitykset nopeasti"
 
 # text below the brand name
-brand_sub_text: "Meidän tavoitteeemme on, että kaikilla olisi mahdollisuus tekstittää videot nopeasti."
+brand_sub_text: "Pyrimme automatisoimaan videoiden tekstityksen tekoälyn avulla, mikä mahdollistaa helpon ja tehokkaan tekstityksen kaikille."
 
 # used for seo meta post author (if it's not defined in post)
 name: "Votre nom"

@@ -40,3 +40,4 @@ img: ":about.jpg"
 {{ website_info_text_first }}
 Meidän tavoitteeemme on, että kaikilla olisi mahdollisuus tekstittää videot nopeasti.
 {{ website_info_text_second }}
+Ratkaisu tähän:

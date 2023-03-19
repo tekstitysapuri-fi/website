@@ -49,17 +49,10 @@ page_data:
     - title: "Funding"
       type: id_funding
       color: "gray"
-    - title: "SoMe"
-      type: id_some
-      color: "#F4A273"
 
   list:
     -
     # programming
-    - type: id_some
-      title: "Facebook"
-      url: "https://facebook.com/FreeSubtitlesForEveryone"
-      info: "Our facebook page"
 
     # funding
     - type: id_funding

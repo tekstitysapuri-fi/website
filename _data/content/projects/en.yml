@@ -4,24 +4,37 @@
 ###########################################################
 page_data:
   main:
-    header: "Projects"
-    info: "Your Project page description."
+    header: "Projektit"
+    info: "Täältä löydät projektit liittyen meihin."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
+    - title: "Funding"
+      type: id_funding
+      color: "gray"
+    - title: "AI"
+      type: id_AI
+      color: "#62b462"
     - title: "Quote"
       type: id_quote
       color: "#2FD0ED"
 
   list:
+    - type: id_funding
+      project_name: "1st funding campaing"
+      img: ":project2_thumb.jpg"
+      date: "2023-04-20"
+      post: |
+        Our MESENAATTI funding campaign is starting, and we hope you will fund us too, because the more funding we get, the more we can help people subtitle videos.
+        
     - type: id_quote
-      project_name: "Step 1"
+      project_name: "Vaihe 1"
       project_excerpt: ""
       img: ":project2_thumb.jpg"
       img_title: "img title6"
       date: "2023-07-01"
       post: |
-        In the first step, we open the automatic subtitling service for test use.
+        Ykkösvaiheessa avaamme automaattisen tekstityspalvelun testikäyttöön.

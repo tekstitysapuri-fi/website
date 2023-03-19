@@ -15,7 +15,7 @@ lng:
     title: Kieli
     msg_page: Katsele tätä sivua Suomeksi
     # if page translation is not available, use this.
-    msg_site: To home
+    msg_site: Kotiin
 
 date:
   # if %b is used in the long format, it will be replaced with the corresponding item in 'months' list below.
@@ -35,7 +35,7 @@ no_translation_tooltip: Ei käännöstä saatavilla
 navigation:
   contact_header: Ota yhteyttä
 
-color_scheme_switch_tooltip: Color scheme
+color_scheme_switch_tooltip: Väriteema
 
 search:
   placeholder: Haku
@@ -65,16 +65,16 @@ not-found:
 post:
   read_time:
     unit: " min"
-    text: " read"
+    text: " lukuaika"
     # c for char w for word
     word_char: w
     # char or words per minute
     per_minute: 200
   pager_buttons:
-    older_post: "← Older Post"
-    newer_post: "Newer Post →"
-    first_post: First
-    last_post: Last
+    older_post: "← Vanhempi postaus"
+    newer_post: "Uudempi postaus →"
+    first_post: Ensimmäinen
+    last_post: Viimeinen
   comments:
     noscript: Please enable JavaScript to view the Comments.
     disqus:
@@ -177,60 +177,60 @@ constants:
 
 # for contact form
 contact_form:
-  button_name: Contact Form
+  button_name: Yhteydenottolomake
   formLoadingText: Loading the Contact Form...
 
 # for cookie consent
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
-  side_nav_setting_button_tooltip: &cookie_settings Cookie settings
+  side_nav_setting_button_tooltip: &cookie_settings Evästeasetukset
   panel_bar:
     msg: >
-      This website uses cookies to optimize site functionality.
-      It will be activated with your approval.
+      Tämä verkkosivusto käyttää evästeitä sivuston toiminnan optimoimiseksi.
+      Se aktivoidaan hyväksynnälläsi.
     privacy_msg: Check $privacy_link.
     buttons:
-      accept: &accept_button Allow all
-      settings: Customize
-      deny: &deny_button Deny
+      accept: &accept_button Hyväksy kaikki
+      settings: Mukauta
+      deny: &deny_button Hylkää
   panel_settings:
     title: *cookie_settings
     msg: >
-      This website uses cookies to optimize site functionality.
-      It will be activated with your approval. Please click each item below for cookie policy.
+      Tämä verkkosivusto käyttää evästeitä sivuston toiminnan optimoimiseksi.
+      Se aktivoidaan hyväksynnälläsi. Napsauta jokaista alla olevaa kohtaa saadaksesi evästekäytännön.
     privacy_msg: Check $privacy_link.
     buttons:
       accept: *accept_button
-      save: Allow selection
+      save: Hyväksy valitut
       deny: *deny_button
-    always_active: Always active
+    always_active: Aina aktiivinen
     consent_types:
       necessary:
-        title: Strictly necessary cookies
+        title: Todella tarpeelliset evästeet
         info: >
-          These cookies are essential for the website function and cannot be disable.
-          They are usually set when site function like color scheme etc. is changed.
-          These cookies do not store any personally identifiable information.
+          Nämä evästeet ovat välttämättömiä verkkosivuston toiminnalle, eikä niitä voi poistaa käytöstä.
+          Ne asetetaan yleensä, kun sivuston toimintoja, kuten värimaailmaa jne., muutetaan.
+          Nämä evästeet eivät tallenna mitään henkilökohtaisia ​​tunnistetietoja.
           $gtag_info
       analytics:
-        title: Performance cookies
+        title: Suorituskykyevästeet
         info: $gtag_info
       preferences:
-        title: Functionality cookies
+        title: Toiminnalliset evästeet
         info: $gtag_info
       advertising:
-        title: Targeting and advertising cookies
+        title: Kohdistus- ja mainosevästeet
         info: $gtag_info
     gtag_info:
       # from https://support.google.com/tagmanager/answer/10718549#consent-types
       ad_storage: >
-        Enables storage (such as cookies) related to advertising.
+        Sallii mainontaan liittyvän tallennustilan (kuten evästeet).
       analytics_storage: >
-        Enables storage (such as cookies) related to analytics e.g. visit duration.
+        Sallii analytiikkaan liittyvän tallennuksen (kuten evästeet), esim. vierailun kesto.
       functionality_storage: >
-        Enables storage that supports the functionality of the website or app e.g. language settings.
+        Mahdollistaa verkkosivuston tai sovelluksen toimivuutta tukevan tallennustilan esim. kieliasetukset.
       personalization_storage: >
-        Enables storage related to personalization e.g. video recommendations.
+        Mahdollistaa personointiin liittyvän tallennustilan esim. videosuosituksia.
       security_storage: >
-        Enables storage related to security such as authentication functionality,
-        fraud prevention, and other user protection.
+        Mahdollistaa turvallisuuteen liittyvän tallennustilan, kuten todennustoiminnot,
+        petostentorjunta ja muu käyttäjien suoja.

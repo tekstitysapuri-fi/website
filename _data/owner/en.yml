@@ -2,10 +2,10 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Automatic subtitles for everyone"
+brand: "Subtitles quickly"
 
 # text below the brand name
-brand_sub_text: "Our goal is for everyone to be able to subtitle videos quickly."
+brand_sub_text: "We aim to automate video subtitling through artificial intelligence, enabling easy and efficient subtitling for all."
 
 # used for seo meta post author (if it's not defined in post)
 name: "Your Name"
