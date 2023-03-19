@@ -5,24 +5,30 @@
 page_data:
   main:
     header: "Projektit"
-    info: "Your Project page description."
+    info: "Täältä löydät projektit liittyen meihin."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "Rahoitus"
+      type: id_rahoitus
       color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "Tekoäly"
+      type: id_AI
       color: "#62b462"
     - title: "Quote"
       type: id_quote
       color: "#2FD0ED"
 
   list:
+    - type: id_rahoitus
+      project_name: "1. Rahoituskampanja"
+      img: ":project2_thumb.jpg"
+      date: "2023-04-20"
+      post: |
+        Meidän MESENAATTI-rahoituskampanjamme alkaa, ja toivomme, että sinäkin rahoitat meitä, koska mitä enemmän rahoitusta saamme, sitä enemmän voimme auttaa ihmisiä tekstittämään videoita.
     - type: id_quote
       project_name: "Vaihe 1"
       project_excerpt: ""
