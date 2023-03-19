@@ -110,8 +110,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Blog
-  button_name: Blog
+  title: Blogi
+  button_name: Blogi
   upside_down_tabs:
     tab:
       all: All
@@ -134,10 +134,10 @@ post-list:
 
 # for home layout
 home:
-  title: Welcome
-  button_name: Home
-  new_posts_title: New Articles
-  new_posts_show_more_button: View More ...
+  title: 
+  button_name: Koti
+  new_posts_title: Uudet artikkelit
+  new_posts_show_more_button: Katso lisää ...
 
 # for archives layout
 archives:
@@ -147,23 +147,23 @@ archives:
 
 # for about layout
 about:
-  title: About
-  button_name: About
+  title: Meistä
+  button_name: Meistä
   email_title: email
 
 # for links layout
 links:
-  title: Links
-  button_name: Links
+  title: Linkit
+  button_name: Linkit
   link_text: Web site
   info_text: Info
 
 # for projects layout
 projects:
-  title: Projects
-  button_name: Projects
-  read_more_text: Read more
-  read_less_text: Read less
+  title: Projektit
+  button_name: Projektit
+  read_more_text: Lue lisää
+  read_less_text: 
 
 # for privacy-policy layout
 privacy-policy:
