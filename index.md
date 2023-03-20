@@ -40,6 +40,7 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {{ website_info_text_first }}
-Hello
+## Our goals
 {{ website_info_text_second }}
-Our goal is for everyone to be able to subtitle videos quickly.
+1. Improve the [OpenAI Whisper](https://github.com/openai/whisper/) module so that it is better in Finnish.
+2. Make it possible for everyone to subtitle videos, without having to spend a lot of time.

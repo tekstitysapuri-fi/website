@@ -41,5 +41,5 @@ img: ":home-heading.jpg"
 {{ website_info_text_first }}
 ## Meidän tavoitteemme
 {{ website_info_text_second }}
-1. Tehdä kaikille mahdolliseksi tekstittää videot, ilman että pitää käyttää paljon aikaa.
-2. Helpottaa videoiden katsomista.
+1. Parantaa [OpenAI Whisper](https://github.com/openai/whisper/) moduulia, niin että se on parempi suomen kielessä.
+2. Tehdä kaikille mahdolliseksi tekstittää videot, ilman että pitää käyttää paljon aikaa.

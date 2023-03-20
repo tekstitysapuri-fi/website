@@ -8,10 +8,9 @@ layout: default
 ---
 {%- include multi_lng/get-pages-by-lng.liquid pages = site.posts -%}
 
-<div class="multipurpose-container home-heading-container">
-  <div class="home-heading" {{ home_img_background_style }}>
-    {{ home_img_tag }}
-    <div class="home-heading-message">
+<div class="multipurpose-container home-heading-container" style="text-align:center;">
+  <!--<div class="home-heading" {{ home_img_background_style }}>-->
+    <!--<div class="home-heading-message">
       {{ site.data.owner[lng].home.top_header_line1
         | replace: site.data.conf.main.brand_replace, site.data.owner[lng].brand
         | replace: site.data.conf.main.greetings_replace, site.data.lang[lng].constants.greetings
@@ -23,9 +22,9 @@ layout: default
           | replace: site.data.conf.main.greetings_replace, site.data.lang[lng].constants.greetings
           | replace: site.data.conf.main.welcome_replace, site.data.lang[lng].constants.welcome }}
       {% endif -%}
-    </div>
-  </div>
-  <div class="home-intro-text markdown-style">
+    </div>-->
+  <!--</div>-->
+  <div class="home-intro-text markdown-style" style="text-align:center;">
     {{ content }}
   </div>
 </div>
