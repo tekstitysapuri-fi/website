@@ -48,19 +48,14 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
+  - github: "tekstitysapuri-fi"
+  - email: "info@tekstitysapuri.fi"
   #- linkedin: ""
-  #- twitter: ""
-  #- mastodon: ""
-  #- instagram: ""
-  #- youtube: ""
-  #- facebook: ""
-  - twitter: "AutomaticSubtitles4Everyone"
-  - mastodon: "AutomaticSubtitles4Everyone"
-  - instagram: "AutomaticSubtitles4Everyone"
-  - youtube: "AutomaticSubtitles4Everyone"
-  - facebook: "AutomaticSubtitles4Everyone"
+  #- twitter: "AutomaattisetTekstityksetKaikille"
+  #- mastodon: "AutomaattisetTekstityksetKaikille"
+  - instagram: "tekstitysapuri"
+  #- youtube: "AutomaticSubtitles4Everyone"
+  #- facebook: "AutomaticSubtitles4Everyone"
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
 
