@@ -141,9 +141,9 @@ home:
 
 # for archives layout
 archives:
-  title: Archive
-  button_name: Archive
-  page_header: Archive
+  title: Timeline
+  button_name: Timeline
+  page_header: Timeline
 
 # for about layout
 about:
