@@ -12,6 +12,8 @@
 [<img src="https://shields.io/badge/Patreon-Support%20me-blue?logo=Patreon" alt="Be my Patron" data-no-image-viewer>](https://patreon.com/MrGreensWorkshop "Be my Patron")
 [<img src="https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi" alt="Tip me via Ko-fi" data-no-image-viewer>](https://ko-fi.com/MrGreensWorkshop "Tip me via Ko-fi")
 
+[![pages-build-deployment](https://github.com/tekstitysapuri-fi/website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tekstitysapuri-fi/website/actions/workflows/pages/pages-build-deployment)
+
 ---
 
 <div align="center">
