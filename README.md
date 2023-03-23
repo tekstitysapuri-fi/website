@@ -8,7 +8,6 @@
 [<img src="https://img.shields.io/github/forks/tekstitysapuri-fi/website" alt="GitHub forks" data-no-image-viewer>](https://github.com/tekstitysapuri-fi/website/blob/main/README.md#readme)
 [<img src="https://img.shields.io/github/stars/tekstitysapuri-fi/website" alt="GitHub stars" data-no-image-viewer>](https://github.com/tekstitysapuri-fi/website/blob/main/README.md#readme)
 [<img src="https://img.shields.io/github/license/tekstitysapuri-fi/website" alt="GitHub license" data-no-image-viewer>](https://github.com/tekstitysapuri-fi/website/blob/main/LICENSE.txt)
-
 [![pages-build-deployment](https://github.com/tekstitysapuri-fi/website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tekstitysapuri-fi/website/actions/workflows/pages/pages-build-deployment)
 
 ---
